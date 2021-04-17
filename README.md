@@ -15,7 +15,7 @@ The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
 ## Deployed Site
-Open[https://stockmarketexchange.netlify.app/](https://stockmarketexchange.netlify.app/) to view it from anywhere
+Open [https://stockmarketexchange.netlify.app/](https://stockmarketexchange.netlify.app/) to view it from anywhere
 
 
 
